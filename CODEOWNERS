@@ -1,4 +1,4 @@
-* @briferz-x/Node Devs
+* @briferz-x/node-devs
 CODEOWNERS @briferz-x/devops
 /.github/workflows/ @briferz-x/devops
 /.github/dependabot.yml @briferz-x/devops
